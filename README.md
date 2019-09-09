@@ -1,3 +1,3 @@
 # Project Profile Showcase
 Summary of professional &amp; academic projects repository
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![Image 1](https://github.com/GodfreyChu/Project-Profile_Showcase/blob/master/Pro1.jpg)
